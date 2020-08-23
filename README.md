@@ -1,1 +1,2 @@
-# assignment3wt
+# WTAS3
+jQuery and ajax
